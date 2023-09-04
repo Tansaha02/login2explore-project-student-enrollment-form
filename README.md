@@ -24,15 +24,23 @@ Low Latency: With in-memory data processing capabilities, JsonPowerDB ensures lo
 Pluggable: It offers pluggable API development, allowing developers to extend its functionality as needed.
 
 Table Of Contents:
+
+
 1)a html file which contains the design of the form
+
 2)a css file which conains the styling code of the student registration form
+
 3)a javascript file which contains the script
 
 Example Of Use:-
+
 * To add a student data in database
+
 ![Screenshot (61)](https://github.com/Tansaha02/login2explore-project-student-enrollment-form/assets/126053392/5d56de24-4575-4117-917b-411480377cbd)
 ![Screenshot (62)](https://github.com/Tansaha02/login2explore-project-student-enrollment-form/assets/126053392/534b793d-d2df-4503-92f9-6c895e24a386)
+
 * To retrieve a data from database if the data that student is available
+
 ![Screenshot (61)](https://github.com/Tansaha02/login2explore-project-student-enrollment-form/assets/126053392/738c4e92-a205-43b9-9c52-82278cd0b373)
 
 *Three buttons are there save reset and update.save button is used to submit and reset button is used for reset the information  and the update button is used update the data in database.
